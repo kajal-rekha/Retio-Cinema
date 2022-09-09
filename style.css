@@ -10,9 +10,6 @@
   --color--btn-2: #5a585a;
   --color-p-3: #212529;
   --color-p-2: #198754;
-  --btn-border-radius: 0.5rem;
-  --card-border-radius: 1rem;
-  --btn-padding: 0.4rem 1.5rem;
   --transition: all 0.3s ease-in-out;
 }
 
@@ -53,9 +50,8 @@ span {
   width: 83%;
   margin: 0 auto;
 }
-/* =====================NAVBAR=================== */
 
-/* =====================NAVBAR=================== */
+/* =====================NAVBAR STARY=================== */
 
 nav {
   width: 100vw;
